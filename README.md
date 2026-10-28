@@ -5,7 +5,7 @@ Un générateur d'art abstrait géométrique et dynamique basé sur l'API HTML5 
 ---
 
 ⚠️ **Aperçu du projet :**
-![Aperçu de l'interface Random Dessin Canvas](Screen_Site/Screenshot 2026-10-28 at 09-59-20 Random Dessin Canvas.png)
+![Aperçu de l'interface Random Dessin Canvas](<Screen_Site/Screenshot 2026-10-28 at 09-59-20 Random Dessin Canvas.png>)
 
 ---
 
