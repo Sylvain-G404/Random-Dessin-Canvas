@@ -1,0 +1,12 @@
+/* DEVELOPER */
+Freelance: Ki->ir->rA
+GitHub: https://github.com/Sylvain-G404
+Portfolio: https://sylvain-g404.github.io/Mon-Portfolio-Temps/
+
+/* APPLICATION */
+Standards: HTML5, CSS3, JS
+Software: VS Code
+
+[SYSTEM LOG] Random Dessin Canvas initialisé avec succès. 
+[ENGINE] Hasard graphique contrôlé : chaque impulsion génère une matrice de formes unique.
+[EXPORT] Module PNG actif — Prêt à compiler vos assets avec ou sans fond transparent.

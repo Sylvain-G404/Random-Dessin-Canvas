@@ -1,0 +1,25 @@
+Structure du dossier pour le volume Windows
+Le numéro de série du volume est 3894-ABBE
+C:.\Random Canvas
+|   .gitignore
+|   generate_structure.bat
+|   human.txt
+|   index.html
+|   README.md
+|   
++---Assets
+|   \---Favicon
+|           Favicon.K.sf.blanc.png
+|           Favicon.K.sf.png
+|           
++---Infos
+|       structure.txt
+|       structure_temp.txt
+|       
++---JavaScript
+|       dessin.js
+|       main.js
+|       
+\---Style
+        style.css
+        
