@@ -2,6 +2,13 @@
 
 Un générateur d'art abstrait géométrique et dynamique basé sur l'API HTML5 Canvas. Cet outil interactif permet de créer instantanément des compositions numériques uniques aux influences cyberpunk/synthwave, combinant des dégradés fluides, des formes proportionnelles et des effets de lueurs néon.
 
+---
+
+⚠️ **Aperçu du projet :**
+![Aperçu de l'interface Random Dessin Canvas](Screen_Site/Screenshot 2026-10-28 at 09-59-20 Random Dessin Canvas.png)
+
+---
+
 ## 🚀 Fonctionnalités
 
 - **Générateur de Chaos Contrôlé :** Création à la volée de formes géométriques (rectangles, cercles, triangles) et de réseaux de lignes interconnectées.
@@ -30,6 +37,9 @@ C:.\Random Canvas
 +---JavaScript
 |       dessin.js
 |       main.js
+|
++---Screen_Site
+|       Screenshot 2026-10-28 at 09-59-20 Random Dessin Canvas.png
 |
 \---Style
         style.css
